@@ -1,0 +1,28 @@
+[{
+    "the_geom": {
+    "type": "Point",
+    "coordinates": [
+    -73.9905797852808,
+    40.72666953254022
+    ]
+    },
+    "objectid": "17",
+    "boro_code": "1",
+    "boro_name": "Manhattan",
+    "boro_cd": "103",
+    "coun_dist": "2",
+    "assem_dist": "66",
+    "st_sen_dist": "27",
+    "cong_dist": "12",
+    "reqbbl": "1004590018",
+    "ifoaddress": "64 E 4 ST",
+    "xstreet1": "3 AV",
+    "xstreet2": "2 AV",
+    "program": "Bike Racks",
+    "assetsubty": "U-Rack",
+    "date_inst": "2001-07-15T00:00:00.000",
+    "internalid": "SiteID: S.0001764 (RL.1900.01764/4569)",
+    "ntaname": "East Village",
+    "femafldz": "X",
+    "femafld_t": "AREA OF MINIMAL FLOOD HAZARD"
+    }]
